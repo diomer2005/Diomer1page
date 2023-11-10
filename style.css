@@ -25,5 +25,10 @@
 .mar {
     margin: 30px solid;
 }
+.tamaño {
+    max-width: 375px;
+    max-height: 175px;
+    
+}
 
 
