@@ -1,0 +1,29 @@
+.margen {
+    margin: 0px 100px;    
+}
+.margen2 {
+    margin: 30px 300px;    
+}
+.margen3 {
+    margin-right: 50px;
+}
+.margem {
+    margin-left: 50px;
+}
+.titulo {
+    margin-left: 200px;
+}
+.colorletra {
+    color: white;
+}    
+.negrilla {
+    font-weight:700;
+} 
+.bg-primaro {
+    background-color : rgb(43, 52, 57);
+}
+.mar {
+    margin: 30px solid;
+}
+
+
